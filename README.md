@@ -1,5 +1,5 @@
 <p align="center">
-    <img height="260" src="https://gitee.com/yc-power/yc.boilerplate/raw/master/assets/images/logo1.png">
+   基于Csharp sdk 开发的区块链可视化事件流程状态机应用
 </p>
 
 
@@ -37,24 +37,30 @@
 
 1. 构建流程，采用系统流程设计器进行如下操作。
 
-
+![image](https://github.com/FISCO-BCOS/BlockChain_ProcessVisual/blob/main/assets/images/1-%E6%B5%81%E7%A8%8B%E8%AE%BE%E8%AE%A1%E5%99%A8.png)
 
 2.在流程管理可以查看创建流程
-
+![image](https://gitee.com/yc-power/yc.boilerplate/raw/master/assets/images/YC.Micro%20%E5%BE%AE%E6%9C%8D%E5%8A%A1.jpg)
 
 3. 在区块链存证示例中进行流程上链操作，业务录入人员需要流程行为和存证数据一一关联，就可以完成上链存证。其中：事务id为整个事件流程唯一id，同一个事件流程下，同一个业务行为只能上链一次，如果有另外需求需要进行二次开发。
 
 3.1 存证操作
+![image](https://gitee.com/yc-power/yc.boilerplate/raw/master/assets/images/YC.Micro%20%E5%BE%AE%E6%9C%8D%E5%8A%A1.jpg)
 
 3.2 查看存证
+![image](https://gitee.com/yc-power/yc.boilerplate/raw/master/assets/images/YC.Micro%20%E5%BE%AE%E6%9C%8D%E5%8A%A1.jpg)
 
 3.3 webasefront 查看交易记录
+![image](https://gitee.com/yc-power/yc.boilerplate/raw/master/assets/images/YC.Micro%20%E5%BE%AE%E6%9C%8D%E5%8A%A1.jpg)
 
 3.4查看合约数据
+![image](https://gitee.com/yc-power/yc.boilerplate/raw/master/assets/images/YC.Micro%20%E5%BE%AE%E6%9C%8D%E5%8A%A1.jpg)
 
 3.5查看合约对应的存储数据
+![image](https://gitee.com/yc-power/yc.boilerplate/raw/master/assets/images/YC.Micro%20%E5%BE%AE%E6%9C%8D%E5%8A%A1.jpg)
 
 3.6 可视化查看业务流程行为存证
+![image](https://gitee.com/yc-power/yc.boilerplate/raw/master/assets/images/YC.Micro%20%E5%BE%AE%E6%9C%8D%E5%8A%A1.jpg)
 
 ##  附录
 
