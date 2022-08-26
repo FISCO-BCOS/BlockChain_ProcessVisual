@@ -40,27 +40,29 @@
 ![image](https://github.com/FISCO-BCOS/BlockChain_ProcessVisual/blob/main/assets/images/1-%E6%B5%81%E7%A8%8B%E8%AE%BE%E8%AE%A1%E5%99%A8.png)
 
 2.在流程管理可以查看创建流程
-![image](https://gitee.com/yc-power/yc.boilerplate/raw/master/assets/images/YC.Micro%20%E5%BE%AE%E6%9C%8D%E5%8A%A1.jpg)
+![image](https://github.com/FISCO-BCOS/BlockChain_ProcessVisual/blob/main/assets/images/2-%E6%B5%81%E7%A8%8B%E7%AE%A1%E7%90%86.png)
+![image](https://github.com/FISCO-BCOS/BlockChain_ProcessVisual/blob/main/assets/images/2.1%20%E6%B5%81%E7%A8%8B%E6%9F%A5%E7%9C%8B.png)
+
 
 3. 在区块链存证示例中进行流程上链操作，业务录入人员需要流程行为和存证数据一一关联，就可以完成上链存证。其中：事务id为整个事件流程唯一id，同一个事件流程下，同一个业务行为只能上链一次，如果有另外需求需要进行二次开发。
 
 3.1 存证操作
-![image](https://gitee.com/yc-power/yc.boilerplate/raw/master/assets/images/YC.Micro%20%E5%BE%AE%E6%9C%8D%E5%8A%A1.jpg)
+![image](https://github.com/FISCO-BCOS/BlockChain_ProcessVisual/blob/main/assets/images/3.1%20%E5%AD%98%E8%AF%81.png)
 
 3.2 查看存证
-![image](https://gitee.com/yc-power/yc.boilerplate/raw/master/assets/images/YC.Micro%20%E5%BE%AE%E6%9C%8D%E5%8A%A1.jpg)
+![image](https://github.com/FISCO-BCOS/BlockChain_ProcessVisual/blob/main/assets/images/3.2%20%E6%9F%A5%E7%9C%8B%E5%AD%98%E8%AF%81.png)
 
 3.3 webasefront 查看交易记录
-![image](https://gitee.com/yc-power/yc.boilerplate/raw/master/assets/images/YC.Micro%20%E5%BE%AE%E6%9C%8D%E5%8A%A1.jpg)
+![image](https://github.com/FISCO-BCOS/BlockChain_ProcessVisual/blob/main/assets/images/3.3%20webasefront%20%E4%BA%A4%E6%98%93%E6%9F%A5%E8%AF%A2.png)
 
 3.4查看合约数据
-![image](https://gitee.com/yc-power/yc.boilerplate/raw/master/assets/images/YC.Micro%20%E5%BE%AE%E6%9C%8D%E5%8A%A1.jpg)
+![image](https://github.com/FISCO-BCOS/BlockChain_ProcessVisual/blob/main/assets/images/3.4%20%E5%90%88%E7%BA%A6%E6%9F%A5%E8%AF%A2.png)
 
 3.5查看合约对应的存储数据
-![image](https://gitee.com/yc-power/yc.boilerplate/raw/master/assets/images/YC.Micro%20%E5%BE%AE%E6%9C%8D%E5%8A%A1.jpg)
+![image](https://github.com/FISCO-BCOS/BlockChain_ProcessVisual/blob/main/assets/images/3.5%20%E5%90%88%E7%BA%A6%E6%95%B0%E6%8D%AE%E6%9F%A5%E8%AF%A2.png)
 
 3.6 可视化查看业务流程行为存证
-![image](https://gitee.com/yc-power/yc.boilerplate/raw/master/assets/images/YC.Micro%20%E5%BE%AE%E6%9C%8D%E5%8A%A1.jpg)
+![image](https://github.com/FISCO-BCOS/BlockChain_ProcessVisual/blob/main/assets/images/3.6%20%E5%8C%BA%E5%9D%97%E9%93%BE%E6%B5%81%E7%A8%8B%E5%8F%AF%E8%A7%86%E5%8C%96.png)
 
 ##  附录
 
