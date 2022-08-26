@@ -1,0 +1,13 @@
+obj
+bin
+/src/Backstage/.vs
+/src/Backstage/TestResults
+/src/Backstage/BasicAppLayer/YC.ServiceWebApi/Logs/2021-10-20
+/src/Backstage/BasicAppLayer/YC.ServiceWebApi/Logs/2021-11-03
+/src/Backstage/BasicAppLayer/YC.ServiceWebApi/Logs/2021-11-05
+/src/Backstage/BasicAppLayer/YC.ServiceWebApi/Logs/2022-01-24
+/src/Backstage/BasicAppLayer/YC.ServiceWebApi/Logs/2022-02-09
+/src/Backstage/BasicAppLayer/YC.ServiceWebApi/Logs/2022-08-26
+/src/Backstage/BasicAppLayer/YC.ServiceWebApi/Logs/2021-10-18
+/src/Backstage/BasicAppLayer/YC.ServiceWebApi/Uploads/2022
+/src/Backstage/BasicAppLayer/YC.ServiceWebApi/.vs

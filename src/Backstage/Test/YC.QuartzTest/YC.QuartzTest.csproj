@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\BasicLayer\YC.Common\YC.Common.csproj" />
+    <ProjectReference Include="..\..\Module\YC.QuartzService\YC.QuartzService.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="DbSqlFile\bigdatadb.sql">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="DbSqlFile\bigdatadb2.sql">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+</Project>
